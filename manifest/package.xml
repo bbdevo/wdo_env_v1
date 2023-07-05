@@ -34,7 +34,38 @@
     </types>
     <types>
         <members>*</members>
-    <name>SiteDotCom</name>
-  </types>
+        <name>SiteDotCom</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
+        <members>trailhead_salesforce_com</members>
+        <members>ForceDotCom</members>
+        <members>Tableau_Public_Url</members>
+        <members>Localhost</members>
+        <members>sfdc_ckz_b2b_s3_amazonaws_com</members>
+        <members>developer_salesforce_com</members>
+        <members>Documentforce</members>
+        <members>CloudinaryCDN</members>
+        <members>login_salesforce_com</members>
+        <members>GoogleFonts</members>
+        <members>CommTrustedSite</members>
+        <members>healthcare_tableau_com</members>
+        <members>Dashboard</members>
+        <members>WDO_Service_SalesforceLiveAgent</members>
+        <members>AWS</members>
+        <members>ci3_googleusercontent_com</members>
+        <name>CspTrustedSite</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>RecordType</name>
+    </types>
     <version>57.0</version>
 </Package>
