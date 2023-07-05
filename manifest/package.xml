@@ -71,5 +71,21 @@
         <members>*</members>
         <name>Layout</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CompactLayout</name>
+    </types>
+    <types> 
+        <members>*</members> 
+        <name>Translations</name> 
+    </types> 
+    <types>
+        <members>*</members>
+        <name>CustomLabels</name>
+    </types>
     <version>57.0</version>
 </Package>

@@ -7,6 +7,80 @@
     <description>Idea Cases created from Experience Builder Idea Box</description>
     <label>Idea</label>
     <picklistValues>
+        <picklist>Approval_Status__c</picklist>
+        <values>
+            <fullName>Approved</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Approved by Legal</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Approved by Manager</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rejected</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rejected by Legal</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rejected by Manager</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Submitted to Legal</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Submitted to Manager</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LOA_Reason__c</picklist>
+        <values>
+            <fullName>Bereavement</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bonding %2F Adoption %2F Childbirth</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Extended vacation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Family or personal leave</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Long-term disability</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Military leave</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ongoing education%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sabbatical</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Short-term disability</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Origin</picklist>
         <values>
             <fullName>Email</fullName>
@@ -60,6 +134,45 @@
         </values>
         <values>
             <fullName>User didn%27t attend training</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Sub_Type__c</picklist>
+        <values>
+            <fullName>Billing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Employee Relations - Complaint</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Employee Relations - Disciplinary Action</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Employee Relations - Wage Issues</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Employee Relations - Workspace Safety</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>HR Inquiry</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>HR Transaction - Place Employee on Leave of Absence</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Termination</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tuition Reimbursement</fullName>
             <default>false</default>
         </values>
     </picklistValues>
