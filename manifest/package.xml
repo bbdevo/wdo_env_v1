@@ -64,8 +64,12 @@
         <name>CspTrustedSite</name>
     </types>
     <types>
-        <members>*</members>
+        <members>Case.Idea</members>
         <name>RecordType</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Layout</name>
     </types>
     <version>57.0</version>
 </Package>
