@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>HR_Knowledge_Article</fullName>
+    <active>false</active>
+    <description>Create a knowledge article for human resources content, such as recruitment or handling employee relations, payroll, benefits, and training</description>
+    <label>HR Knowledge Article</label>
+</RecordType>
